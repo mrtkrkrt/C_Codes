@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573317203 source:c:\users\excalibur\desktop\yeni klasör\ebob bulme fonksioynu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1573317203 source:c:\users\excalibur\desktop\c denemeler\fonksiyon\ebob bulma fonksiyonu\ebob bulme fonksioynu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570353403 source:c:\users\excalibur\desktop\yeni klasör\while örnek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

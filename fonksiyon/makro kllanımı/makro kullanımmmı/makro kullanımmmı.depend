@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572685564 source:c:\users\excalibur\desktop\yeni klasör\makro kullanýmmmý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

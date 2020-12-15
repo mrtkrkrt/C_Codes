@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571505837 source:c:\users\excalibur\desktop\yeni klasör\yýldýzla þekil oluþturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

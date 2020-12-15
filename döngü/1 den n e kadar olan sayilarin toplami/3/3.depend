@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570721714 source:c:\users\excalibur\desktop\yeni klasör\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1570721714 source:c:\users\excalibur\desktop\c denemeler\1 den n e kadar olan sayilarin toplami\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

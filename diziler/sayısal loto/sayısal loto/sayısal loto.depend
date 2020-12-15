@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572452946 source:c:\users\excalibur\desktop\yeni klasör\sayýsal loto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1572453230 source:c:\users\excalibur\desktop\c denemeler\diziler\sayýsal loto\sayýsal loto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

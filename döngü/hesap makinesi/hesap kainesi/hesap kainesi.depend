@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570283213 source:c:\users\excalibur\desktop\yeni klasör\hesap kainesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

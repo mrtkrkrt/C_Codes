@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573134757 source:c:\users\excalibur\desktop\yeni klasör\sayýnýn tersiini bulan fonksiyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

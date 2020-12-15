@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572011686 source:c:\users\excalibur\desktop\yeni klasör\parola doðtulama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1573668922 source:c:\users\excalibur\desktop\c denemeler\diziler\parola doðt,rulama\parola doðtulama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

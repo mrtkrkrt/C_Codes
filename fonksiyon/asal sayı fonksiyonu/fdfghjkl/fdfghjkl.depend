@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573072187 source:c:\users\excalibur\desktop\c denemeler\fonksiyon\asal sayý fonksiyonu\fdfghjkl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572454823 source:c:\users\excalibur\desktop\c denemeler\çok boyutlu dizi\çok boyutlu diziler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574258915 source:c:\users\excalibur\desktop\yeni klasör\strcat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

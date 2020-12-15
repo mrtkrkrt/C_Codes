@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570188488 source:c:\users\excalibur\desktop\yeni klasör\ascii tablo\main.c
+	<stdio.h>
+	<stdlib.h>
+

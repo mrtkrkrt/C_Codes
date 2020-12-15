@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572194840 source:c:\users\excalibur\desktop\yeni klasör\n e kadar tek çift ayýrma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

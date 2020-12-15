@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570033999 source:c:\users\excalibur\desktop\yeni klasör\mat iþlem örnek 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
